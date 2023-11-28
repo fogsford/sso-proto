@@ -8,7 +8,7 @@ syntax = "proto3";
 package auth;
 
 // Настройки для генерации Go кода.
-option go_package = "tuzov.sso.v1;ssov1";
+option go_package = "fogsford.sso.v1;ssov1";
 
 // Auth is service for managing permissions and roles.
 service Auth {

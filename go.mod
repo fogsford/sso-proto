@@ -1,4 +1,4 @@
-module github.com/GolangLessons/protos
+module github.com/fogsford/sso-proto
 
 go 1.21
 
